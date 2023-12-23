@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pranav12verma
-- 👀 I’m interested in Golang, Python, Java and Machine Learning
-- 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Josh Software
+- 👀 I’m interested in Spring Boot, React, Golang, Python, Java and Machine Learning
+- 🌱 I’m currently learning Spring Boot and React
+- 💞️ I’m currently employed at Credit Suisse
 - 📫 How to reach me pranav12verma@gmail.com
 
 <!---
